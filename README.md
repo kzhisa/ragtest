@@ -11,3 +11,4 @@ https://zenn.dev/khisa/articles/74d9ae645655a4
 
 ## basic_qabot3.py
 
+https://zenn.dev/khisa/articles/401f6934aca965
